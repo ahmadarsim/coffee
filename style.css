@@ -1,0 +1,110 @@
+.container-fluid{
+    justify-content: space-around !important;
+}
+.collapse{
+    flex-grow: 0 !important;
+    
+}
+i{
+    color: #829479!important;
+}
+.bgimage{
+    background-image: url(images/download.jfif);
+    background-size: 100%;
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    
+}
+
+.text{
+    padding-top: 250px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 26px ;
+}
+
+.text h1{
+    font-size: 56px;
+    color: black;
+}
+.text p{
+    font-size: 16px;
+    color: black;
+}
+p{
+    
+    font-size: 16px;
+}
+
+.container{
+    max-width: 100%;
+    background-color:#e9dccc ;
+}
+.row{
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-evenly;
+    --bs-gutter-x: 0.2px;
+}
+.col{
+    flex: 0 0%;
+}
+.content{
+    max-width: 800px;
+    margin: auto;
+    color: #35384b;
+}
+h3{
+    padding-top:50px ;
+}
+img{
+    width: 190px;
+    padding-bottom: 40px;
+}
+.container1{
+    background-color:#35384b;
+}
+.container1 h3 {
+    padding-top:50px;
+    color: white;
+    padding-bottom: 20px;
+}
+.container1 h5{
+    color: white;
+    
+    padding-left: 30%;
+}
+.card-body p{
+    color: white;
+    padding-left:30% ;
+    padding-bottom: none;
+    
+}
+.container1 p{
+    color: white;
+    padding-bottom: 0px;
+    font-size: 14px;
+}
+.card{
+    background-color: #35384b!important;
+    border: none!important;
+   
+}
+.card-group img{
+    width: 300px;
+    padding-bottom: 0px;
+}
+.map{
+    text-align: center;
+
+}
+
+
+
+
+
+
+@media screen(max-800px) {
+    
+}
